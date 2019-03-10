@@ -23,7 +23,6 @@ def valid_move?(board, index)
   true
   end
 end
-end
 
 def move(board, index, player_icon = "X")
   
